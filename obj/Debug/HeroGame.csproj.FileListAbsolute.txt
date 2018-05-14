@@ -1,0 +1,7 @@
+C:\Users\our\Desktop\HeroGame\bin\Debug\HeroGame.exe.config
+C:\Users\our\Desktop\HeroGame\bin\Debug\HeroGame.exe
+C:\Users\our\Desktop\HeroGame\bin\Debug\HeroGame.pdb
+C:\Users\our\Desktop\HeroGame\obj\Debug\HeroGame.csprojAssemblyReference.cache
+C:\Users\our\Desktop\HeroGame\obj\Debug\HeroGame.csproj.CoreCompileInputs.cache
+C:\Users\our\Desktop\HeroGame\obj\Debug\HeroGame.exe
+C:\Users\our\Desktop\HeroGame\obj\Debug\HeroGame.pdb
